@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .loading {
+    color: orange;
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  .error {
+    color: red;
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  .message {
+    color: gray;
+    text-align: center;
+    font-size: 16px;
+  }
+  
